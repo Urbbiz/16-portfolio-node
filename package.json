@@ -4,7 +4,7 @@
   "description": "Node live server test",
   "main": "index.js",
   "scripts": {
-    "dev": "live-server --port=8080/src/",
+    "dev": "live-server --port=8080",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
